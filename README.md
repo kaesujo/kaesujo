@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-i like cats.
+I like cats.
 🐈
 
 <!--
